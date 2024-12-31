@@ -1,0 +1,18 @@
+.detail-product{
+    text-align: center;
+}
+
+.cart-empty-messege{
+    width: 30%;
+}
+.cart-flex-div1{
+    width: 40%;
+}
+@media screen and (max-width:768px){
+    .cart-flex-div1{
+        width: 100%;
+    }
+    .cart-flex-div2{
+        width: 100%;
+    }
+}

@@ -1,0 +1,43 @@
+
+.admin-dashboard{
+    color: black;
+    padding-top: 5px;
+   text-align: center;
+}
+h1{
+    font-weight: 800 !important;
+    font-size: 24px !important;
+}
+.boxes{
+    width: 30%;
+   height: 160px;
+    border: 2px solid rgb(195, 195, 195);
+    border-radius: 12px;
+    margin:2%;
+    padding: 2%;
+    white-space:pre-wrap;
+    text-overflow:clip;
+    overflow:hidden;
+    
+}
+.boxes:hover{
+
+}
+.box-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.each-row{
+    border-radius: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    
+}
+.dlt-btn{
+    
+    border-radius: 5px;
+    padding: 5px;
+    margin-top:2%;
+  
+}

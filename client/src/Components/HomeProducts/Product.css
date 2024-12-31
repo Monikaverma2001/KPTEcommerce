@@ -1,0 +1,11 @@
+.product-head{
+    margin-top: 10px;
+}
+.buttons-div{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.buttons-div button{
+    margin:3px
+}

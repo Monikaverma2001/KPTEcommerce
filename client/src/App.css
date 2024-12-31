@@ -1,0 +1,29 @@
+.cart-flex{
+    display: flex;
+    justify-content:space-between;
+}
+.order-btn{
+    padding: 2%;
+    padding-left:4%;
+    padding-right: 4%;
+   margin-top: 10px;
+   border-radius: 5px;
+}
+.cart-flex .cart-flex-div1{
+    width: 40%;
+}
+.cart-flex-div1-div{
+    border: 1px solid gainsboro;
+    padding: 5%;
+
+}
+.flex-item-div{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    box-sizing: border-box;
+}
+::after, ::before{
+    box-sizing: border-box;
+}
